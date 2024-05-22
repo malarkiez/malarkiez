@@ -2,7 +2,7 @@
 
 👋 Hi, I’m @malarkiez
 
-:mortar_board: I'm close to finishing up my Master's Degree in Information Technology and UW-Milwaukee!
+:mortar_board: I just finished my Master's Degree in Information Technology at UW-Milwaukee in May of 2024!
 
 🔍 I'm really a big Networking, Cloud, Infrastructure, and Automation enthusiast and I'm on a knowledge journey learning more about these silos.
 
